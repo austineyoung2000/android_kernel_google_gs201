@@ -132,5 +132,6 @@ gs201-dpm-user.dtbo-base := gs201-a0.dtb
 gs201-dpm-userdebug.dtbo-base := gs201-a0.dtb
 
 include $(srctree)/google-devices/lynx/dts/Makefile
+include $(srctree)/google-devices/tangorpro/dts/Makefile
 
 MKDTIMG_FLAGS += --page_size=4096  --id=/:board_id --rev=/:board_rev

@@ -8,3 +8,6 @@
 export KERNEL_SRC := $(srctree)/google-modules
 
 obj-y += lynx/display/
+obj-y += tangorpro/display/
+obj-y += tangorpro/pogo/
+obj-y += tangorpro/display/backlight/

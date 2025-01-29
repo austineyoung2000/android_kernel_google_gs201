@@ -35,3 +35,7 @@ obj-y += video/gchips/
 obj-y += wlan/bcm4389/
 obj-y += wlan/wcn6740/cnss2/
 obj-y += wlan/wcn6740/wlan/qcacld-3.0/
+obj-y += fingerprint/fpc/
+obj-y += touch/novatek/nt36xxx/
+obj-y += bluetooth/synaptics/
+#obj-y += wlan/dhd43752p/
